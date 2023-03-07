@@ -1,6 +1,6 @@
 {
   "name": "michijs-vscode-material-theme",
-  "displayName": "Material Theme",
+  "displayName": "Michi Material Theme",
   "description": "Vscode Material theme built following Google guidelines",
   "author": "Lucas M. Segurado",
   "icon": "media/material.png",
@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Material Theme",
+        "label": "Michi Material Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/material-color-theme.json"
       }
