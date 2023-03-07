@@ -4,6 +4,11 @@
   "description": "Vscode Material theme built following Google guidelines",
   "author": "Lucas M. Segurado",
   "icon": "media/material.png",
+  "repository": "https://github.com/michijs/vscode-material-theme",
+  "files": [
+    "dist/"
+  ],
+  "license": "MIT",
   "version": "0.1.0",
   "publisher": "michijs",
   "engines": {
