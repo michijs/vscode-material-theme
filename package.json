@@ -5,6 +5,10 @@
   "author": "Lucas M. Segurado",
   "icon": "media/material.png",
   "repository": "https://github.com/michijs/vscode-material-theme",
+  "galleryBanner": {
+    "color": "#672122",
+    "theme": "dark"
+  },
   "files": [
     "dist/"
   ],
