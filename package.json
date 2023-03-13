@@ -9,6 +9,9 @@
     "color": "#672122",
     "theme": "dark"
   },
+  "sponsor": {
+    "url": "https://github.com/sponsors/michijs"
+  },
   "files": [
     "dist/"
   ],
