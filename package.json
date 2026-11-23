@@ -29,8 +29,8 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@michijs/shared-configs": "0.0.37",
-    "@vscode/vsce": "4.0.0"
+    "@michijs/shared-configs": "0.0.38",
+    "@vscode/vsce": "4.1.1"
   },
   "contributes": {
     "themes": [
